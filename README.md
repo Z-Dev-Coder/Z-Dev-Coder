@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=190&section=header&text=Zaw%20Myo%20Tun&fontSize=44&fontAlignY=36&desc=Junior%20Software%20Developer%20%7C%20Python%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
   <br/>
@@ -11,7 +11,7 @@
 
   [![Location](https://img.shields.io/badge/Location-Mandalay%2C%20Myanmar-1E293B?style=for-the-badge&logo=google-maps&logoColor=EF4444)](https://maps.google.com/?q=Mandalay,+Myanmar)
   [![Education](https://img.shields.io/badge/Education-HND%20Software%20Engineering-1E293B?style=for-the-badge&logo=buffer&logoColor=60A5FA)](#-education)
-  [![Email](https://img.shields.io/badge/Email-zawmyotun.kl%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zawmyotun.kl@gmail.com)
+  [![Contact Me](https://img.shields.io/badge/Get_In_Touch-Send_Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zawmyotun.kl@gmail.com)
 
 </div>
 
@@ -134,16 +134,29 @@ Currently advancing my studies toward a Bachelor's degree, with a long-term aspi
 
 ---
 
-### 💬 Connect With Me
+### 💬 Connect & Inquiries
 
 <div align="center">
+
   <a href="mailto:zawmyotun.kl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zawmyotun.kl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_Direct_Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Z-Dev-Coder">
-    <img src="https://img.shields.io/badge/GitHub-Z--Dev--Coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-Z--Dev--Coder-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+
+  <br/><br/>
+
+  <details>
+    <summary><b>📫 Click to reveal direct email address</b></summary>
+    <br/>
+    <p>
+      <b>Email:</b> <code>zawmyotun.kl@gmail.com</code><br/>
+      <b>Location:</b> Mandalay, Myanmar <i>(Open to local and remote software development roles)</i>
+    </p>
+  </details>
+
 </div>
 
 <br/>
