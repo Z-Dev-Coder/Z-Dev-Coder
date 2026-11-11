@@ -1,60 +1,61 @@
 # Hi there, I'm Zaw Myo Tun 👋
 
-```
-  ____   ____               ____          _           
- |_  /  |  _ \   _____   __/ ___|___   __| | ___ _ __ 
-  / /---| | | | / _ \ \ / / |   / _ \ / _` |/ _ \ '__|
- / /|___| |_| ||  __/\ V /| |__| (_) | (_| |  __/ |   
-/___|   |____/  \___| \_/  \____\___/ \__,_|\___|_|   
-```
-
-🚀 **Full-Stack Engineer & AI Systems Developer** specializing in building modern web platforms, intelligent agent workflows, and cross-platform desktop/mobile applications.
+📍 **Mandalay, Myanmar** | 📧 [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com) | 📱 09-943773771 / 09-793443483
 
 ---
 
-## 🛠️ Technical Skills
+### 👨‍💻 About Me
 
-### 💻 Languages & Frameworks
-- **Backend:** Python (Django, FastAPI, Django REST Framework), Java
-- **Frontend:** TypeScript, JavaScript, React.js, Nuxt 3, Vue.js, Tailwind CSS, Bootstrap 5
-- **Desktop & Mobile:** Electron.js, Android (Java)
+I am a **Junior Software Developer** who recently completed a **Higher National Diploma (HND) in Software Engineering** at EduCLaaS. I have hands-on experience developing with **Python** and **Django**, and I actively leverage **AI-assisted development ("vibecoding")** and modern language models to build and iterate on software faster and smarter.
 
-### 🤖 AI, LLM & Data Engineering
-- **Local Models:** Ollama, Mistral, LLaMA
-- **RAG & Search:** LangGraph, pgvector, Vector Embeddings, Chunking & Retrieval
-- **Databases:** PostgreSQL, SQLite, SQLAlchemy
-
-### 🧰 Tools & DevOps
-- Git, GitHub, Vite, Vitest, Node.js, npm, Linux/Windows environments
+Currently studying toward a Bachelor's degree, with a long-term goal of advancing into an **AI Engineer** role. I bring a strong, dependable work ethic developed through my prior engineering and customer-facing experience.
 
 ---
 
-## 🌟 Featured Projects
+### 🛠️ Technical Skills
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| [**JumpStart AI**](https://github.com/Z-Dev-Coder/JumpStart-AI-Supported-Chatbot) | `Django` `React` `pgvector` `Ollama` | Enterprise AI support agent featuring local LLM reasoning, RAG vector retrieval, and human handover |
-| [**recap-studio**](https://github.com/Z-Dev-Coder/recap-studio) | `Electron` `Python` `FFmpeg` | Cross-platform video toolbox for screen recording, downloads, and AI transcription |
-| [**English Coach**](https://github.com/Z-Dev-Coder/english-coach) | `Django` `React` `Vite` `Ollama` | Adaptive language learning platform measuring independent skill proficiency at zero recurring cost |
-| [**MerryMeal**](https://github.com/Z-Dev-Coder/MerryMeal) | `React` `TypeScript` `FastAPI` | Enterprise charity meal management system with multi-tier role dashboards and GIS delivery logistics |
-| [**FoodSmash**](https://github.com/Z-Dev-Coder/foodsmash-nuxt) | `Nuxt 3` `Vue 3` `TypeScript` `Vitest` | Food combo discovery and social sharing platform built with Nuxt 3 and full test coverage |
-| [**Silent Library**](https://github.com/Z-Dev-Coder/silentlibrary) | `Django` `SQLite` `Bootstrap 5` | Comprehensive Library Management System with role-based access control (RBAC), loans, and waitlists |
-| [**Math Quiz Android**](https://github.com/Z-Dev-Coder/Math-Quiz-Mobile-App) | `Android` `Java` `Gradle` | Progressive educational mobile game designed to develop arithmetic skills in children |
+- **Core Languages & Frameworks:** Python, Django, Django REST Framework, HTML5, CSS3, JavaScript (Basic)
+- **AI-Assisted Development & Workflows:** Prompt Engineering, LLM-guided development, Automation pipelines
+- **AI & Retrieval:** LangGraph, RAG (Retrieval-Augmented Generation) pipelines, Groq-hosted LLMs, Ollama
+- **Version Control & Tools:** Git, GitHub, VS Code
+- **Currently Learning:** AI Engineering, Agentic AI Systems, LLM Application Design
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Projects (From My Resume)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z-Dev-Coder&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zaw Myo Tun's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Dev-Coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+#### 1. [AI-Powered Customer Support Chatbot](https://github.com/Z-Dev-Coder/JumpStart-AI-Supported-Chatbot)
+> **Academic Capstone Project**  
+> *Python · Django · LangGraph · RAG Pipelines · Local/Cloud LLMs*
+- Designed and built a retail customer support chatbot integrating an AI language model for natural conversation.
+- Connected the chatbot to a knowledge base using **Retrieval-Augmented Generation (RAG)** to provide grounded, accurate answers.
+- Implemented automated logic to recognize complex customer issues and smoothly hand over the session to human staff.
+
+#### 2. [Charity Meal Delivery Web Application (MerryMeal)](https://github.com/Z-Dev-Coder/MerryMeal)
+> **Academic Project | Agile/Scrum Team of 5 | Role: Developer**  
+> *Python · Django · Bootstrap 5 · SQLite / MySQL · Agile/Scrum*
+- Collaborated in a 5-member Agile team participating in daily stand-ups, backlog grooming, and sprint planning.
+- Developed core features for a role-based Django platform serving Members, Caregivers, Partner Kitchens, and Volunteers.
+- Contributed to team proposal reports, workflow specifications, and system design documents.
+
+#### 3. [AI Content Automation Tool](https://github.com/Z-Dev-Coder/recap-studio)
+> **Personal Project**  
+> *Python · LLM Automation · Narration Generation · Audio Pipelines*
+- Built a personal automation tool leveraging an AI language model to draft narration scripts and convert them into voiceover audio.
+- Designed to streamline repetitive content preparation and multimedia workflows.
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **zawmyotun.kl@gmail.com**
-- 💼 GitHub: [@Z-Dev-Coder](https://github.com/Z-Dev-Coder)
+### 🎓 Education
 
-⭐ *Constantly building, shipping, and learning.*
+- **Higher National Diploma (HND) in Software Engineering** — EduCLaaS, Myanmar (2024 – Aug 2026)
+- **Bachelor's Degree in Computing / Software Engineering** — *Currently studying*
+- **Civil Engineering (Coursework completed through final year 1st semester)** — Technological University (2014 – 2020)
+
+---
+
+### 💬 Connect With Me
+
+- **Email:** [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com)
+- **Phone:** 09-943773771 / 09-793443483
+- **GitHub:** [@Z-Dev-Coder](https://github.com/Z-Dev-Coder)
