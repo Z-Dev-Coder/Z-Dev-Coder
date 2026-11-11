@@ -1,4 +1,4 @@
-# Hi there, I'm Zaw Myo Tun 👋
+﻿# Hi there, I'm Zaw Myo Tun 👋
 
 📍 **Mandalay, Myanmar** | 📧 [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com) | 📱 09-943773771 / 09-793443483
 
@@ -14,7 +14,7 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 
 ### 🛠️ Technical Skills
 
-- **Core Languages & Frameworks:** Python, Django, Django REST Framework, HTML5, CSS3, JavaScript (Basic)
+- **Core Languages & Web:** Python, Django, Django REST Framework, HTML5, CSS3, JavaScript
 - **AI-Assisted Development & Workflows:** Prompt Engineering, LLM-guided development, Automation pipelines
 - **AI & Retrieval:** LangGraph, RAG (Retrieval-Augmented Generation) pipelines, Groq-hosted LLMs, Ollama
 - **Version Control & Tools:** Git, GitHub, VS Code
@@ -22,7 +22,7 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 
 ---
 
-### 🚀 Featured Projects (From My Resume)
+### 🚀 Featured Projects
 
 #### 1. [AI-Powered Customer Support Chatbot](https://github.com/Z-Dev-Coder/JumpStart-AI-Supported-Chatbot)
 > **Academic Capstone Project**  
@@ -38,7 +38,14 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 - Developed core features for a role-based Django platform serving Members, Caregivers, Partner Kitchens, and Volunteers.
 - Contributed to team proposal reports, workflow specifications, and system design documents.
 
-#### 3. [AI Content Automation Tool](https://github.com/Z-Dev-Coder/recap-studio)
+#### 3. [DoBu Martial Arts & Fitness Academy](https://github.com/Z-Dev-Coder/DoBuMartialArts)
+> **Frontend Web Development Project** · [🔗 Live Demo](https://z-dev-coder.github.io/DoBuMartialArts/)  
+> *HTML5 · CSS3 (Flexbox & Grid) · Vanilla JavaScript · GitHub Pages*
+- Built a modern, multi-page responsive web platform for a martial arts academy featuring class schedules, instructor profiles, and registration.
+- Crafted mobile-first layouts with smooth scroll animations, interactive timetables, and client-side form validation.
+- Deployed live on GitHub Pages.
+
+#### 4. [AI Content Automation Tool](https://github.com/Z-Dev-Coder/recap-studio)
 > **Personal Project**  
 > *Python · LLM Automation · Narration Generation · Audio Pipelines*
 - Built a personal automation tool leveraging an AI language model to draft narration scripts and convert them into voiceover audio.
