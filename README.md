@@ -96,13 +96,25 @@ Explore my interactive live portfolio: 👉 **[https://z-dev-coder.github.io/por
 
 ---
 
+### 💼 Professional Experience
+
+- **Site Engineer** — *Innovate Myanmar Forward Co., Ltd.* (2020 – 2021)  
+  *Supervised physical construction blueprint compliance, conducted daily quality assurance checks, and coordinated multi-trade contractor teams. Cultivated structural thinking, disciplined task execution, and deadline-driven engineering precision.*
+- **Site Engineer** — *AM Construction Group* (2018 – 2019)  
+  *Assisted on-site structural operations, inspected material quality, and maintained project progress reporting under rigorous engineering specifications.*
+- **Salesman** — *Shin Shin Rice Selling Shop* (2021 – 2022)  
+  *Managed front-line customer transactions, user communication, and inventory reconciliation with high reliability and active listening.*
+- **Salesman** — *Power Used Laptop Sales & Service Centre* (2013 – 2014)  
+  *Advised clients on computer hardware specifications and diagnostics, building early technical literacy and user-empathy communication.*
+
+---
+
 ### 🎓 Education & Background
 
-- **Higher National Diploma (HND) in Software Engineering (Merit)** — EduCLaaS, Myanmar (2024 – 2026)
-- **Bachelor of Science (BSc) in Computing / Software Engineering** — *Currently studying*
-- **Pearson BTEC International Level 3 Diploma in IT / Foundation** — (2024)
-- **Foundational Engineering Coursework (Civil & Quantitative Systems)** — Technological University (2014 – 2020)  
-  *5+ years of rigorous engineering mathematics, structural analysis, and quantitative problem-solving fundamentals before dedicating full-time to software engineering.*
+- **Higher National Diploma (HND) in Software Engineering (Merit)** — EduCLaaS, Myanmar (2024 – Aug 2026)
+- **Bachelor of Science (BSc) in Computing / Software Engineering** — *Currently studying (In Progress)*
+- **Civil Engineering (not completed)** — Technological University, Myanmar (2014 – 2020)  
+  *Completed coursework through final year 1st semester, building 5+ years of quantitative systems, engineering mathematics, and structural discipline before transitioning to software engineering.*
 
 ---
 
@@ -126,6 +138,7 @@ Explore my interactive live portfolio: 👉 **[https://z-dev-coder.github.io/por
 
   <p>
     <b>Email:</b> <code>zawmyotun.kl@gmail.com</code> &nbsp;|&nbsp; 
+    <b>Phone:</b> <code>09-943773771 / 09-793443483</code> &nbsp;|&nbsp;
     <b>Location:</b> Mandalay, Myanmar <i>(Open to on-site, hybrid, and remote roles)</i>
   </p>
 
