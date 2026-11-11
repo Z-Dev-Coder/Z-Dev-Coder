@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <h1>👋 Hi, I'm Zaw Myo Tun</h1>
   <p><strong>Junior Software Developer · Python & Django · AI-Assisted Development</strong></p>
@@ -9,6 +9,7 @@
 
   <br/><br/>
 
+  [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://z-dev-coder.github.io/portfolio/)
   [![Location](https://img.shields.io/badge/Location-Mandalay%2C%20Myanmar-1E293B?style=for-the-badge&logo=google-maps&logoColor=EF4444)](https://maps.google.com/?q=Mandalay,+Myanmar)
   [![Education](https://img.shields.io/badge/Education-HND%20Software%20Engineering-1E293B?style=for-the-badge&logo=buffer&logoColor=60A5FA)](#-education)
   [![Contact Me](https://img.shields.io/badge/Get_In_Touch-Send_Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zawmyotun.kl@gmail.com)
@@ -20,6 +21,8 @@
 ### 👨‍💻 About Me
 
 I am a **Junior Software Developer** with a **Higher National Diploma (HND) in Software Engineering** from EduCLaaS. I have hands-on experience developing web applications with **Python** and **Django**, and I actively utilize **AI-assisted development ("vibecoding")** and modern language models to prototype, build, and ship software faster and smarter.
+
+Explore my interactive live portfolio website: 👉 **[https://z-dev-coder.github.io/portfolio/](https://z-dev-coder.github.io/portfolio/)**
 
 Currently advancing my studies toward a Bachelor's degree, with a long-term aspiration of growing into an **AI Engineer** role. I bring a reliable work ethic cultivated through prior engineering and customer-facing responsibilities.
 
@@ -128,6 +131,10 @@ Currently advancing my studies toward a Bachelor's degree, with a long-term aspi
 
 <div align="center">
 
+  <a href="https://z-dev-coder.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Interactive_Portfolio-Visit_Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:zawmyotun.kl@gmail.com">
     <img src="https://img.shields.io/badge/Send_Direct_Email-Click_Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
