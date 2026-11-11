@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=190&section=header&text=Zaw%20Myo%20Tun&fontSize=44&fontAlignY=36&desc=Junior%20Software%20Developer%20%7C%20Python%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-  <br/>
+  <h1>👋 Hi, I'm Zaw Myo Tun</h1>
+  <p><strong>Junior Software Developer · Python & Django · AI-Assisted Development</strong></p>
 
   <a href="https://github.com/Z-Dev-Coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Junior+Software+Developer;Python+%26+Django+Specialist;AI-Assisted+Development+(VibeCoding);Building+Adaptive+AI+Systems" alt="Animated Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Junior+Software+Developer;Python+%26+Django+Specialist;AI-Assisted+Development+(VibeCoding);Building+Adaptive+AI+Systems" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -112,16 +112,6 @@ Currently advancing my studies toward a Bachelor's degree, with a long-term aspi
 #### [AI Content Automation Tool (Recap Studio)](https://github.com/Z-Dev-Coder/recap-studio)
 > *Python · LLM Automation · Narration Generation · Audio Pipelines*
 - Personal automation tool leveraging an AI language model to draft narration scripts and convert them into voiceover audio.
-
----
-
-### 📈 Activity & Streak
-
-<div align="center">
-  <a href="https://github.com/Z-Dev-Coder">
-    <img src="https://streak-stats.demolab.com?user=Z-Dev-Coder&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
