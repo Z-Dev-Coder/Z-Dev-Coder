@@ -1,24 +1,74 @@
-﻿# Hi there, I'm Zaw Myo Tun 👋
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=190&section=header&text=Zaw%20Myo%20Tun&fontSize=44&fontAlignY=36&desc=Junior%20Software%20Developer%20%7C%20Python%20%26%20AI%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-📍 **Mandalay, Myanmar** | 📧 [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com)
+  <br/>
+
+  <a href="https://github.com/Z-Dev-Coder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Junior+Software+Developer;Python+%26+Django+Specialist;AI-Assisted+Development+(VibeCoding);Building+Adaptive+AI+Systems" alt="Animated Subtitle" />
+  </a>
+
+  <br/><br/>
+
+  [![Location](https://img.shields.io/badge/Location-Mandalay%2C%20Myanmar-1E293B?style=for-the-badge&logo=google-maps&logoColor=EF4444)](https://maps.google.com/?q=Mandalay,+Myanmar)
+  [![Education](https://img.shields.io/badge/Education-HND%20Software%20Engineering-1E293B?style=for-the-badge&logo=buffer&logoColor=60A5FA)](#-education)
+  [![Email](https://img.shields.io/badge/Email-zawmyotun.kl%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zawmyotun.kl@gmail.com)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Junior Software Developer** who recently completed a **Higher National Diploma (HND) in Software Engineering** at EduCLaaS. I have hands-on experience developing with **Python** and **Django**, and I actively leverage **AI-assisted development ("vibecoding")** and modern language models to build and iterate on software faster and smarter.
+I am a **Junior Software Developer** with a **Higher National Diploma (HND) in Software Engineering** from EduCLaaS. I have hands-on experience developing web applications with **Python** and **Django**, and I actively utilize **AI-assisted development ("vibecoding")** and modern language models to prototype, build, and ship software faster and smarter.
 
-Currently studying toward a Bachelor's degree, with a long-term goal of advancing into an **AI Engineer** role. I bring a strong, dependable work ethic developed through my prior engineering and customer-facing experience.
+Currently advancing my studies toward a Bachelor's degree, with a long-term aspiration of growing into an **AI Engineer** role. I bring a reliable work ethic cultivated through prior engineering and customer-facing responsibilities.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Stack
 
-- **Core Languages & Frameworks:** Python, Django, Django REST Framework, HTML5, CSS3, JavaScript (Basic), Java (Android)
-- **AI-Assisted Development & Workflows:** Prompt Engineering, LLM-guided development, Automation pipelines
-- **AI & Retrieval:** LangGraph, RAG (Retrieval-Augmented Generation) pipelines, Groq-hosted LLMs, Ollama
-- **Version Control & Methodology:** Git, GitHub, VS Code, Agile / Scrum (ClickUp, 2-week sprints, daily standups)
-- **Currently Learning:** AI Engineering, Agentic AI Systems, LLM Application Design
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/REST_Framework-A30000?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend & Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI & Automation** | ![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-0284C7?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![VibeCoding](https://img.shields.io/badge/AI_Assisted-VibeCoding-8B5CF6?style=flat-square) |
+| **Mobile & Tools** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Highlighted Project: English Coach
+
+<table>
+  <tr>
+    <td width="65%">
+      <h3><a href="https://github.com/Z-Dev-Coder/english-coach">🎓 English Coach — Adaptive AI Language Platform</a></h3>
+      <p>A full-stack, adaptive learning system that converts real-world content into custom daily lessons targeting a learner's measured skill weaknesses at <b>$0 recurring cost</b> using local AI models.</p>
+      <ul>
+        <li><b>Independent Multi-Skill Profiling:</b> Tracks 8 discrete CEFR competencies (Reading, Speaking, Listening, Grammar, Vocabulary, etc.) instead of a flat level.</li>
+        <li><b>Zero-Cost AI Architecture:</b> Pluggable <code>AIProvider</code> running local Ollama LLMs.</li>
+        <li><b>Speaking Script Studio:</b> Generates interactive conversational scripts for oral practice and cadence drills.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-Local_LLM-black?style=flat-square&logo=ollama&logoColor=white" />
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/Z-Dev-Coder/english-coach">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>⚡ Full-Stack & Local LLMs</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,30 +88,40 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 - Built a role-based Django web platform serving Members, Caregivers, Partner Kitchens, and Volunteers.
 - Implemented delivery logistics (hot weekday meals within safe radius vs frozen weekend meals), food safety tracking, and donation ledgers.
 
-#### 3. [Silent Library — Full-Stack Library Management System](https://github.com/Z-Dev-Coder/silentlibrary)
+#### 3. [DoBu Martial Arts & Fitness Academy](https://github.com/Z-Dev-Coder/DoBuMartialArts)
+> **Front-End Development Module (HDSE-FED)** · [🔗 Live Demo](https://z-dev-coder.github.io/DoBuMartialArts/)  
+> *HTML5 · CSS3 (Flexbox & Grid) · Vanilla JavaScript · GitHub Pages*
+- Responsive multi-page web platform featuring academy course listings, interactive timetables, trainer rosters, and student enrollment forms.
+
+#### 4. [Silent Library — Full-Stack Library Management System](https://github.com/Z-Dev-Coder/silentlibrary)
 > **Web Development Design Module (WDF)**  
 > *Python · Django · SQLite · Bootstrap 5 · Role-Based Access Control*
 - Implemented a complete Software Development Lifecycle (SDLC) web solution for the Silent Library client brief.
 - Built role-based access control (Members vs Librarians), catalog search with cover image uploads, loan tracking, waitlist queues, and review ratings.
 
-#### 4. [Math Quiz — Educational Android Mobile Game](https://github.com/Z-Dev-Coder/Math-Quiz-Mobile-App)
+#### 5. [Math Quiz — Educational Android Mobile Game](https://github.com/Z-Dev-Coder/Math-Quiz-Mobile-App)
 > **Unit 7: Mobile Apps Development (Pearson BTEC International Level 3 Diploma in IT)**  
 > *Java · Android Studio · Gradle · Material Components*
 - Developed an interactive mental arithmetic learning app for young children (ages 5–12) for an educational charity scenario.
 - Implemented all 4 arithmetic operators with non-negative constraints, 3 timed difficulty levels (Untimed, 20s, 10s), sound effects, and accessible touch layouts.
 
-#### 5. [DoBu Martial Arts & Fitness Academy](https://github.com/Z-Dev-Coder/DoBuMartialArts)
-> **Front-End Development Module (HDSE-FED)** · [🔗 Live Demo](https://z-dev-coder.github.io/DoBuMartialArts/)  
-> *HTML5 · CSS3 (Flexbox & Grid) · Vanilla JavaScript · GitHub Pages*
-- Responsive multi-page web platform featuring academy course listings, interactive timetables, trainer rosters, and student enrollment forms.
-
 ---
 
-### 🚀 Personal Projects
+### 🎙️ Personal Projects
 
 #### [AI Content Automation Tool (Recap Studio)](https://github.com/Z-Dev-Coder/recap-studio)
 > *Python · LLM Automation · Narration Generation · Audio Pipelines*
 - Personal automation tool leveraging an AI language model to draft narration scripts and convert them into voiceover audio.
+
+---
+
+### 📈 Activity & Streak
+
+<div align="center">
+  <a href="https://github.com/Z-Dev-Coder">
+    <img src="https://streak-stats.demolab.com?user=Z-Dev-Coder&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
@@ -76,5 +136,17 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 
 ### 💬 Connect With Me
 
-- **Email:** [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com)
-- **GitHub:** [@Z-Dev-Coder](https://github.com/Z-Dev-Coder)
+<div align="center">
+  <a href="mailto:zawmyotun.kl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zawmyotun.kl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Z-Dev-Coder">
+    <img src="https://img.shields.io/badge/GitHub-Z--Dev--Coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<div align="center">
+  <sub>Designed & Maintained by Zaw Myo Tun · Updated 2026</sub>
+</div>
