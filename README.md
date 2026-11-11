@@ -1,6 +1,6 @@
 ﻿# Hi there, I'm Zaw Myo Tun 👋
 
-📍 **Mandalay, Myanmar** | 📧 [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com) | 📱 09-943773771 / 09-793443483
+📍 **Mandalay, Myanmar** | 📧 [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com)
 
 ---
 
@@ -77,5 +77,4 @@ Currently studying toward a Bachelor's degree, with a long-term goal of advancin
 ### 💬 Connect With Me
 
 - **Email:** [zawmyotun.kl@gmail.com](mailto:zawmyotun.kl@gmail.com)
-- **Phone:** 09-943773771 / 09-793443483
 - **GitHub:** [@Z-Dev-Coder](https://github.com/Z-Dev-Coder)
